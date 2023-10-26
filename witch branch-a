@@ -1,0 +1,20 @@
+[33mcommit 8bbfe34e49cdf6e75da9c784e2a6372dd414f22f[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: db34d92 1f8b36f
+Author: yamadabeeendo <147469483+yamadabeeendo@users.noreply.github.com>
+Date:   Thu Oct 26 19:15:15 2023 +0900
+
+    Merge pull request #2 from yamadabeeendo/branch-b
+    
+    update the favorite food on branch-b
+
+[33mcommit 1f8b36f3117eddbf00fa6eef6ed2da192b9cd58f[m[33m ([m[1;31morigin/branch-b[m[33m, [m[1;32mbranch-b[m[33m)[m
+Author: endo haruki <he2156@yamada-bee.com>
+Date:   Thu Oct 26 10:13:42 2023 +0000
+
+    update the favorite food on branch-b
+
+[33mcommit db34d92e6b596772869bf7b6e44bf7572bb91547[m
+Author: endo haruki <he2156@yamada-bee.com>
+Date:   Thu Oct 26 10:06:49 2023 +0000
+
+    initial commit
